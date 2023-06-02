@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    vistore:
+      email: vistore1test@gmail.com
+      name: Vi Store
+      password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
+cookie:
+  expiry_days: 5
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - srikanth@getrolo.in
