@@ -1,8 +1,16 @@
 credentials:
   usernames:
-    vistore:
-      email: vistore1test@gmail.com
-      name: Vi Store
+    viadmin:
+      email: viadmintest@gmail.com
+      name: VI Admin
+      password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
+    visuper:
+      email: visuper1test@gmail.com
+      name: Aziz Kazi
+      password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
+    viarl:
+      email: viarl1test@gmail.com
+      name: Shreya Sharma
       password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
 cookie:
   expiry_days: 5
