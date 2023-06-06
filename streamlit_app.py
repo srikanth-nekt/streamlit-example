@@ -9,6 +9,13 @@ import streamlit_authenticator as stauth
 import yaml
 from yaml.loader import SafeLoader
 
+st.set_page_config(
+   page_title="VI Dashboards",
+   page_icon="VI",
+   layout="wide",
+   initial_sidebar_state="expanded",
+)
+
 with open('./config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
 
