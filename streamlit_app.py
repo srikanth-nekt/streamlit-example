@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pyxlsb
+# import pyxlsb
 
 import streamlit_authenticator as stauth
 
