@@ -58,7 +58,8 @@ if authentication_status:
 
     st.write(f'VI S Dashboard *{name}*')
     # df = pd.read_csv("GG_17.csv")
-    df = pd.read_csv("Vi_S.csv")
+    my_csv = os.path.join(path, 'Vi_S.csv')
+    df = pd.read_csv(my_csv)
     df.columns = df.columns.str.replace('\n', ' ')
     # df = pd.read_excel("GG_17.xlsb")
     if is_arl:
