@@ -55,19 +55,25 @@ is_arl = 'arl' in username
 is_sup = 'super' in username
 
 if authentication_status:
-    authenticator.logout('Logout', 'main')
+
     st.write(f'VI S Dashboard *{name}*')
     # df = pd.read_csv("GG_17.csv")
     df = pd.read_csv("Vi_S.csv")
+    df.columns = df.columns.str.replace('\n', ' ')
     # df = pd.read_excel("GG_17.xlsb")
     if is_arl:
-        st.write(df.loc[df['ARL'] == name])
+        df = df.loc[df['ARL'] == name]
+        st.write(df[[col for col in df.columns if col in vi_s_cols]])
     elif is_sup:
-        st.write(df.loc[df['FL  And SM Name'] == name])
+        df = df.loc[df['FL  And SM Name'] == name]
+        st.write(df[[col for col in df.columns if col in vi_s_cols]])
         # print(df.columns)
     else:
-        st.write(df)
+        st.write(df[[col for col in df.columns if col in vi_s_cols]])
+
+    authenticator.logout('Logout', 'main')
 elif authentication_status == False:
     st.error('Username/password is incorrect')
 elif authentication_status == None:
     st.warning('Please enter your username and password')
+
