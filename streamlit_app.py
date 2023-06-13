@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 # import pyxlsb
@@ -9,6 +10,8 @@ import streamlit_authenticator as stauth
 import yaml
 from yaml.loader import SafeLoader
 
+import streamlit as st
+
 st.set_page_config(
    page_title="VI Dashboards",
    page_icon="VI",
@@ -16,7 +19,25 @@ st.set_page_config(
    initial_sidebar_state="expanded",
 )
 
-with open('./config.yaml') as file:
+vi_s_cols = [
+'Store Name',
+'GG Tgt', 'GG FTD', 'GG  MTD', '% Ach GG',
+'Churn MTD', '% SR',
+'MNP Tgt', 'FTD MNP', 'MTD MNP', '% Ach MNP',
+'CONS Tgt', 'FTD Cons', 'MTD Cons', '% Ach Cons',
+'IOIP Tgt', 'FTD IOIP', 'MTD IOIP', '% Ach IOIP',
+'COCP Tgt', 'FTD COCP', 'MTD COCP', '% Ach COCP',
+'Fam Tgt', 'FTD Fam', 'MTD Fam', '% Ach Fam',
+'SME+SoHo Tgt', 'FTD SME', 'MTD SME',
+'CONS Fresh Tgt', 'FTD Cons Fresh', 'MTD Cons Fresh', '% Ach Cons Fresh',
+'CONS MNP Tgt', 'FTD MNP', 'MTD MNP', '% Ach Cons MNP',
+'CONS P2P Tgt', 'FTD Cons P2P', 'MTD Cons P2P', '% Ach Cons P2P'
+]
+
+
+path = os.path.dirname(__file__)
+my_file = os.path.join(path, 'config.yaml')
+with open(my_file) as file:
     config = yaml.load(file, Loader=SafeLoader)
 
 # authenticator = Authenticate(
@@ -35,8 +56,9 @@ is_sup = 'super' in username
 
 if authentication_status:
     authenticator.logout('Logout', 'main')
-    st.write(f'KPI Dashboard *{name}*')
-    df = pd.read_csv("GG_17.csv")
+    st.write(f'VI S Dashboard *{name}*')
+    # df = pd.read_csv("GG_17.csv")
+    df = pd.read_csv("Vi_S.csv")
     # df = pd.read_excel("GG_17.xlsb")
     if is_arl:
         st.write(df.loc[df['ARL'] == name])
@@ -49,6 +71,3 @@ elif authentication_status == False:
     st.error('Username/password is incorrect')
 elif authentication_status == None:
     st.warning('Please enter your username and password')
-
-
-
