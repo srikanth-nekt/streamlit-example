@@ -1,21 +1,349 @@
-credentials:
-  usernames:
-    viadmin:
-      email: viadmintest@gmail.com
-      name: VI Admin
-      password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
-    visuper:
-      email: visuper1test@gmail.com
-      name: Aziz Kazi
-      password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
-    viarl:
-      email: viarl1test@gmail.com
-      name: Shreya Sharma
-      password: $2b$12$EO8Q7N7J2Cbj9Vkyf9K0oequ.GUNBvaybcPBhgtx8i02SX/eFg14.
 cookie:
   expiry_days: 5
-  key: random_signature_key # Must be string
-  name: random_cookie_name
+  key: aY67SmQFTXXCKfbVtBhb
+  name: VIDashrandomCKE
+credentials:
+  usernames:
+    amolg:
+      email: amol.gaikwad@vodafoneidea.com
+      name: Amol G
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    ajitp:
+      email: ajit.puranik@vodafoneidea.com
+      name: AJIT PURANIK
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    ameyau:
+      email: ameya.umbardand1@vodafoneidea.com
+      name: AMEYA UMBARDAND
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    amolt:
+      email: amol.tambe@vodafoneidea.com
+      name: Amol Tambe
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    amratat:
+      email: amrata.thakur2@vodafoneidea.com
+      name: AMRATA THAKUR
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    amrutav:
+      email: amruta.vasudeon@vodafoneidea.com
+      name: Amruta Vasudeon
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    aniketd:
+      email: aniket.dawkhar@vodafoneidea.com
+      name: Aniket Dawkhar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    anshumang:
+      email: anshuman.g@vodafoneidea.com
+      name: Anshuman Gangreddiwar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    arshads:
+      email: arshad.shaikh1@vodafoneidea.com
+      name: Arshad Shaikh
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    ashutoshm:
+      email: ashutosh.mathew@vodafoneidea.com
+      name: Ashutosh Mathew
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    ashwinid:
+      email: ashwini.dhakate1@vodafoneidea.com
+      name: Ashwini Dhakate
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    avinashk:
+      email: avinash.karpe@vodafoneidea.com
+      name: Avinash Karpe
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    avinashs:
+      email: avinash.shankar@vodafoneidea.com
+      name: Avinash Shankar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    azizk:
+      email: aziz.kazi@vodafoneidea.com
+      name: Aziz kazi
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    bhagyashrip:
+      email: bhagyashri.patil2@vodafoneidea.com
+      name: bhagyashri patil
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    bharatj:
+      email: bharat.jadhav@vodafoneidea.com
+      name: Bharat Jadhav
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    bhavishal:
+      email: bhavisha.lehru@vodafoneidea.com
+      name: Bhavisha Lehru
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    chetand:
+      email: chetan.deshmukh3@vodafoneidea.com
+      name: Chetan Deshmukh
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    dimplea:
+      email: dimple.arya@vodafoneidea.com
+      name: Dimple Arya
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    gauravk:
+      email: gaurav.kajale@vodafoneidea.com
+      name: Gaurav Kajale
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    genishas:
+      email: genisha.sahu@vodafoneidea.com
+      name: Genisha Sahu
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    hansal:
+      email: namrata.doke@vodafoneidea.com
+      name: Hansa Likhia
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    hemantv:
+      email: hemant.vaidya@vodafoneidea.com
+      name: HEMANT VAIDYA
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    himanit:
+      email: himani.thakkar@vodafoneidea.com
+      name: Himani Thakkar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    javedm:
+      email: javed.mulani@vodafoneidea.com
+      name: Javed Mulani
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    jolusr:
+      email: jolus.rocha@vodafoneidea.com
+      name: Jolus Rocha
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    kajalm:
+      email: kajal.meshram@vodafoneidea.com
+      name: Kajal Meshram
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    kalyanip:
+      email: kalyani.pandit@vodafoneidea.com
+      name: Kalyani Pandit
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    kanchank:
+      email: kanchan.kewalramani2@vodafoneidea.com
+      name: Kanchan Kewalramani
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    kiranm:
+      email: kiran.manake@vodafoneidea.com
+      name: Kiran Manake
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    madhuriw:
+      email: madhuri.wathodkar@vodafoneidea.com
+      name: Madhuri Wathodkar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    mangeshm:
+      email: mangesh.musale@vodafoneidea.com
+      name: Mangesh Musale
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    maniks:
+      email: manik.subramanyam@vodafoneidea.com
+      name: manik subramanyam
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    mithleshs:
+      email: mithlesh.singh@vodafoneidea.com
+      name: Mithlesh Singh
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    mohammads:
+      email: mohammad.shoeb@vodafoneidea.com
+      name: Mohammad Shoeb
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    mohnishk:
+      email: mohnish.khandelwal@vodafoneidea.com
+      name: Mohnish Khandelwal
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    nainab:
+      email: naina.bhati2@vodafoneidea.com
+      name: Naina Bhati
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    nawazb:
+      email: nawazbesghar@vodafoneidea.com
+      name: NAWAZ BESGHAR
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    nitinb:
+      email: nitin.bakshi@vodafoneidea.com
+      name: nitin bakshi
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    nitishh:
+      email: nitish.humbre@vodafoneidea.com
+      name: Nitish Sunil Humbre
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    pankaja:
+      email: pankaj.awate@vodafoneidea.com
+      name: Pankaj Awate
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    pawanm:
+      email: pawan.mokashi2@vodafoneidea.com
+      name: Pawan Mokashi
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    prachip:
+      email: prachi.pasalkar2@vodafoneidea.com
+      name: Prachi Pasalkar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    prasadg:
+      email: prasad.gholap@vodafoneidea.com
+      name: Prasad Gholap
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    pratikc:
+      email: pratik.chavare2@vodafoneidea.com
+      name: PRATIK CHAVARE
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    pravind:
+      email: pravin.deshmukh@vodafoneidea.com
+      name: Pravin Deshmukh
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    pravink:
+      email: pravin.khedkar@vodafoneidea.com
+      name: pravin khedkar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    preetamm:
+      email: preetam.modi@vodafoneidea.com
+      name: preetam modi
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    preetis:
+      email: preeti.sambhekar@vodafoneidea.com
+      name: preeti Sambhekar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    preeyap:
+      email: preeya.patil@vodafoneidea.com
+      name: Preeya Patil
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    premjitm:
+      email: premjit.madapallil@vodafoneidea.com
+      name: premjit madapallil
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    priyankac:
+      email: priyanka.chougale@vodafoneidea.com
+      name: priyanka chougale
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    priyankaf:
+      email: priyanka.fernandes@vodafoneidea.com
+      name: Priyanka Fernandes
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    purvak:
+      email: purva.kulshrestha@vodafoneidea.com
+      name: Purva Kulshrestha
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    rafiqs:
+      email: rafiq.shaikh@vodafoneidea.com
+      name: Rafiq Shaikh
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    rahilp:
+      email: rahil.pathan@vodafoneidea.com
+      name: Rahil Pathan
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    rahulk:
+      email: rahul.khairnar@vodafoneidea.com
+      name: Rahul Khairnar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    rahulm:
+      email: rahul.more@vodafoneidea.com
+      name: RAHUL MORE
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    rameshj:
+      email: ramesh.jugdar@vodafoneidea.com
+      name: Ramesh Jugdar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    randhirk:
+      email: randhir.kamble1@vodafoneidea.com
+      name: Randhir Kamble
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    raveenag:
+      email: raveena.godse@vodafoneidea.com
+      name: RAVEENA GODSE
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    rutujas:
+      email: rutuja.shaha@vodafoneidea.com
+      name: Rutuja Shaha
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    sachidanandj:
+      email: sachidanand.joshi@vodafoneidea.com
+      name: Sachidanand Joshi
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    saurabhj:
+      email: saurabh.jadon@vodafoneidea.com
+      name: Saurabh Jadon
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    shahida:
+      email: shahid.ansari@vodafoneidea.com
+      name: shahid ansari
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    shaibazs:
+      email: shaibaz.shaikh@vodafoneidea.com
+      name: Shaibaz Shaikh
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    shailendrab:
+      email: shailendra.bhadage@vodafoneidea.com
+      name: Shailendra Bhadage
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    shreerangk:
+      email: shreerang.khare1@vodafoneidea.com
+      name: Shreerang Khare
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    shreyas:
+      email: shreya.sharma1@vodafoneidea.com
+      name: Shreya Sharma
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    sonum:
+      email: sonu.moroliya@vodafoneidea.com
+      name: Sonu Moroliya
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    sufneekk:
+      email: sufneek.kaur@vodafoneidea.com
+      name: Sufneek Kaur
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    sukanta:
+      email: sukant.agrawal@vodafoneidea.com
+      name: SUKANT AGRAWAL
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    sunnyk:
+      email: sunny.kamble1@vodafoneidea.com
+      name: Sunny Kamble
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    suparnas:
+      email: suparna.shah@vodafoneidea.com
+      name: Suparna Shah
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    tarunay:
+      email: taruna.yuvraj@vodafoneidea.com
+      name: Taruna Yuvraj
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    tukaramg:
+      email: tukaram.gurav@vodafoneidea.com
+      name: Tukaram Gurav
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    tushants:
+      email: tushant.sonone@vodafoneidea.com
+      name: Tushant Sonone
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    tusharm:
+      email: tushar.mehar@vodafoneidea.com
+      name: tushar mehar
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    urvashir:
+      email: urvashi.rathore@vodafoneidea.com
+      name: Urvashi Rathore
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    veenaa:
+      email: veena.acharya@vodafoneidea.com
+      name: VEENA ACHARYA
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    vikrams:
+      email: vikram.suryawanshi@vodafoneidea.com
+      name: Vikram Suryawanshi
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    vinodiniw:
+      email: vinodini.waman@vodafoneidea.com
+      name: Vinodini waman
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    vivekb:
+      email: vivek.biswas@vodafoneidea.com
+      name: Vivek Biswas
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    viveks:
+      email: vivek.shinde@vodafoneidea.com
+      name: Vivek Shinde
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
+    yogeshj:
+      email: yogesh.jagtap@vodafoneidea.com
+      name: Yogesh Jagtap
+      password: $2b$12$2kj6VIUfoqjcq/gJtuSg3ecCZ4Td013BMAaeRgX7Jt/qQBiSX78sG
 preauthorized:
   emails:
   - srikanth@getrolo.in
